@@ -45,7 +45,7 @@
       </GridPane>
       <HBox alignment="CENTER" prefHeight="58.0" prefWidth="459.0" spacing="20.0" VBox.vgrow="NEVER">
          <children>
-            <Label prefHeight="47.0" prefWidth="98.0" text="time: ">
+            <Label prefHeight="47.0" prefWidth="118.0" text="time: ">
                <font>
                   <Font size="36.0" />
                </font>
@@ -60,7 +60,7 @@
                   <Font size="36.0" />
                </font>
             </Label>
-            <Label fx:id="restOfMine" alignment="CENTER" prefWidth="42.0" text="0">
+            <Label fx:id="restOfMine" alignment="CENTER" prefWidth="52.0" text="0">
                <font>
                   <Font size="36.0" />
                </font>
